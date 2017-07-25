@@ -1,4 +1,4 @@
-'''Edits'''
+'''New Edits'''
 from multiprocessing import Pool
 import random as rand
 from random import randint
